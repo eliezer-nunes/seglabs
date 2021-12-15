@@ -1,0 +1,17 @@
+body{
+    background-color: #ebeff2 !important;
+}
+
+.main-container{
+    background-color: var(--bs-body-bg) !important;
+}
+
+.btn_filtrar{
+    margin-top: 2rem!important;
+    float: right;
+    width: 150px;
+}
+
+.not_data_table{
+    color: #939393;
+}
